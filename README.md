@@ -1,2 +1,0 @@
-# MatrizGD
-MatrizGD
